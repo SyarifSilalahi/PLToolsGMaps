@@ -1,0 +1,14 @@
+PODS:
+  - PLToolsGMaps (0.1.0)
+
+DEPENDENCIES:
+  - PLToolsGMaps (from `../`)
+
+EXTERNAL SOURCES:
+  PLToolsGMaps:
+    :path: ../
+
+SPEC CHECKSUMS:
+  PLToolsGMaps: 3733bb0339564ae5982f47b451db8f4ce69f8791
+
+COCOAPODS: 0.39.0

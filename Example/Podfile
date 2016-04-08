@@ -3,6 +3,7 @@ use_frameworks!
 
 target 'PLToolsGMaps_Example', :exclusive => true do
   pod 'PLToolsGMaps', :path => '../'
+  pod 'GoogleMaps'
 end
 
 target 'PLToolsGMaps_Tests', :exclusive => true do

@@ -1,0 +1,6 @@
+framework module Pods_PLToolsGMaps_Example {
+  umbrella header "Pods-PLToolsGMaps_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
